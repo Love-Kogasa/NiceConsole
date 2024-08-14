@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "chroma": "^0.0.1",
+    "readline-sync": "^1.4.10"
+  },
+  "name": "nicerconsole",
+  "version": "1.0.0",
+  "description": "nicer console",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "node test"
+  },
+  "keywords": [
+    "beautiful",
+    "nice",
+    "console",
+    "better",
+    "nodejs"
+  ],
+  "author": "LiYingchao ( github:Love-Kogasa )",
+  "license": "MIT"
+}
